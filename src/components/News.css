@@ -1,0 +1,11 @@
+.card-container{
+    
+}
+.card-grid{
+    
+    display: flex;
+        
+}
+.card-position{
+    margin: 10px;
+}
